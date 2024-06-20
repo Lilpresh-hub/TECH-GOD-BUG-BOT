@@ -3,41 +3,41 @@
 //YouTube: @techgod143
 //Instagram: techgod143
 //Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
+//GitHub: @Lilpresh-hub
+//WhatsApp: +2349152597171
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownernomer = "2349152597171"
+global.ownername = "🐛Lil Presh😚"
 global.ytname = "YT: Tech-God"
-global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.socialm = "GitHub: Lilpresh-hub"
+global.location = "Nigeria, Lagos"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
+global.ownernumber = '2349152597171'  //creator number
+global.ownername = '🐛Lil Presh' //owner name
 global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Tech-God\n\nContact: +2349152597171'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🎈'
 global.wm = "Youtube Tech God."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
@@ -48,7 +48,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v4'
 
 //text bug
 global.xbugtex = {
@@ -59,8 +59,8 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by Tech god or premium user only',
-    admin: 'This feature can be used by Tech god or admin only',
+    prem: 'This feature can be used by LIL PRESH or premium user only',
+    admin: 'This feature can be used by LIL PRESH  or admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by Tech god or owner only',
     group: 'This feature is only for groups',
